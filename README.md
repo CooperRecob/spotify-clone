@@ -4,6 +4,8 @@ I made this during the Spring 2025 Hackathon at FAHS
 
 To run the project do npm install, npm run dev, php artisan migrate:fresh --seed, Place your mp4 files in "storage\app\public\tracks\pianoman - Billy Joel\01 Travelin' Prayer.mp3" (follow that format), php artisan tracks:import, php artisan serve
 
+You may need to install XAMPP and have a table in mySQL named spotify-clone
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
